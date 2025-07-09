@@ -72,7 +72,7 @@ Bellow is a comparison of the schematic before and after adding IBUF and OBUF pr
 
 ## 🚀 FPGA Deployment  
 
-The processor was programmed onto an FPGA board and verified to run correctly.  
+The design was programmed onto an FPGA board and verified to run correctly.  
 ![Deployed FPGA](Docs/deployed_FPGA.png)  
  
 ---    
