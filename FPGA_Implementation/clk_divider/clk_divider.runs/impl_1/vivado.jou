@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Jul  9 06:11:51 2025
+# Process ID: 13516
+# Current directory: F:/GitHub/Integer_Clk_Division/FPGA_Implementation/clk_divider/clk_divider.runs/impl_1
+# Command line: vivado.exe -log clk_div.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source clk_div.tcl -notrace
+# Log file: F:/GitHub/Integer_Clk_Division/FPGA_Implementation/clk_divider/clk_divider.runs/impl_1/clk_div.vdi
+# Journal file: F:/GitHub/Integer_Clk_Division/FPGA_Implementation/clk_divider/clk_divider.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source clk_div.tcl -notrace
